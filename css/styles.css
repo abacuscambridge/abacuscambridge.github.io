@@ -165,11 +165,9 @@ body::-webkit-scrollbar-thumb:hover {
   padding-right:10px;
 }
 
-.nav-link {
-  color: white !important;
-  font-size: 1rem;
-  font-weight: 500;
-}
+  .nav-link {
+    font-size: 1.5em;
+  }
 
 /* .navbar-nav {
   float:none;

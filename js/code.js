@@ -1,3 +1,5 @@
+AOS.init();
+
 const resizeLanding = () => {
     var navHeight = $(".navbar").first().outerHeight();
     var background_height = Math.min($("#image1").outerHeight() - navHeight, $(window).height() - navHeight);

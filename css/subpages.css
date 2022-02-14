@@ -143,7 +143,6 @@ main{
 .navbar-brand {
   /* padding-left: 60px;
   padding-right: 60px; */
-
 }
 
 .navbar-nav > li{
@@ -467,6 +466,10 @@ footer {
     width: 40px;
   }
 
+  .nav-link {
+    font-size: 1.5em;
+  }
+
   .pres-welcome-row {
     flex-direction: column;
     align-items: center;
@@ -614,7 +617,7 @@ footer {
   }
 
   body {
-    /* padding-top: 60px; */
+    padding-top: 60px;
   }
 }
 
